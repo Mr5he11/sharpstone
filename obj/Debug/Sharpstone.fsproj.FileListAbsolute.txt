@@ -1,0 +1,22 @@
+C:\Users\stefa_000\Desktop\SharpStone\bin\Debug\Sharpstone.exe.config
+C:\Users\stefa_000\Desktop\SharpStone\bin\Debug\Sharpstone.XML
+C:\Users\stefa_000\Desktop\SharpStone\bin\Debug\Sharpstone.exe
+C:\Users\stefa_000\Desktop\SharpStone\bin\Debug\Sharpstone.pdb
+C:\Users\stefa_000\Desktop\SharpStone\bin\Debug\FSharp.Core.dll
+C:\Users\stefa_000\Desktop\SharpStone\bin\Debug\FSharp.Core.xml
+C:\Users\stefa_000\Desktop\SharpStone\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\stefa_000\Desktop\SharpStone\obj\Debug\Sharpstone.exe
+C:\Users\stefa_000\Desktop\SharpStone\obj\Debug\Sharpstone.pdb
+C:\Users\stefa_000\Google Drive\SharpStone\bin\Debug\Sharpstone.exe.config
+C:\Users\stefa_000\Google Drive\SharpStone\bin\Debug\Sharpstone.XML
+C:\Users\stefa_000\Google Drive\SharpStone\bin\Debug\Sharpstone.exe
+C:\Users\stefa_000\Google Drive\SharpStone\bin\Debug\Sharpstone.pdb
+C:\Users\stefa_000\Google Drive\SharpStone\bin\Debug\FSharp.Core.dll
+C:\Users\stefa_000\Google Drive\SharpStone\bin\Debug\FSharp.Core.xml
+C:\Users\stefa_000\Google Drive\SharpStone\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\stefa_000\Google Drive\SharpStone\obj\Debug\Sharpstone.exe
+C:\Users\stefa_000\Google Drive\SharpStone\obj\Debug\Sharpstone.pdb
+C:\Users\stefa\Downloads\SharpStone-20200604T145020Z-001\SharpStone\bin\Debug\Sharpstone.XML
+C:\Users\stefa\Downloads\SharpStone-20200604T145020Z-001\SharpStone\obj\Debug\Sharpstone.fsprojAssemblyReference.cache
+C:\Users\stefa\Downloads\SharpStone-20200604T145020Z-001\SharpStone\obj\Debug\Sharpstone.exe
+C:\Users\stefa\Downloads\SharpStone-20200604T145020Z-001\SharpStone\obj\Debug\Sharpstone.pdb
